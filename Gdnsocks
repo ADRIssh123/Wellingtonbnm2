@@ -1,5 +1,5 @@
 {
-  "Version": "0.1.2",
+  "Version": "0.1.3",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -86,10 +86,10 @@
      {
     "Name": "🔵TIM DIRECT [03]",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: support.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL /?/ HTTP/1.1[crlf]Host: titaonet.tk[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "Payload": "CONNECT / HTTP/1.1[lf]Host:[rotate=mobile.hom.c6bank.app;auth.of.c6bank.com.br;api.of.c6bank.com.br;mtls.of.c6bank.com.br][lf][lf][instant_split][lf]CONNECT- / HTTP/1.1[lf]Host:[app_host][lf]Connection:[crlf]Upgrade: websocket[lf]User-Agent:(KHTML, like Gecko) OPR/[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.32.349.45",
+      "ProxyIP": "104.18.27.160"",
       "ProxyPort": "80",
       "Info": "Direct"
      },
