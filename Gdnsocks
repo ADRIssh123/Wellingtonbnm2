@@ -74,7 +74,7 @@
       "Info": "Proxy"
   },
   {
-    "Name": "🔵TIM DDDs 81e87 [02]",
+    "Name": "🔵TIM 2 websocket",
       "FLAG": "tim",
       "Payload": "CONNECT / HTTP/1.9[crlf]host: blog.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: ca.vipssh.com[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
       "SNI": "",
@@ -86,7 +86,7 @@
      {
     "Name": "🔵TIM DIRECT [03]",
       "FLAG": "tim",
-      "Payload": "CONNECT / HTTP/1.1[lf]Host:[rotate=mobile.hom.c6bank.app;auth.of.c6bank.com.br;api.of.c6bank.com.br;mtls.of.c6bank.com.br][lf][lf][instant_split][lf]CONNECT- / HTTP/1.1[lf]Host:[app_host][lf]Connection:[crlf]Upgrade: websocket[lf]User-Agent:(KHTML, like Gecko) OPR/[lf][lf]",
+      "Payload": "CONNECT / HTTP/1.9[crlf]host: blog.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: a.us.serverfast.pw[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "104.18.27.160"",
