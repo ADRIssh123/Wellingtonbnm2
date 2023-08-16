@@ -1,0 +1,75 @@
+{
+  "Version":"1.5.5.5",
+  "ReleaseNotes":"✅\n\n",
+  "UrlUpdate":"cta4g",
+  "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
+  "EmailFeedback":"kiritosshxd5733@gmail.com",
+  "UrlContato":"https://t.me/Aquamandotiete",
+  "UrlTermos":"https://raw.githubusercontent.com/leitura/pacotesmb/main/termos.html",
+  "CheckUser":"true",
+  "UdpPort":"7300;7400;7500;7600;7700",
+  "Servers":[
+    {
+      "Name":"💚BR 1 | HACKCAH",
+      "TYPE":"premium",
+      "FLAG":"br.png",
+      "ServerIP":"bra4.hackkcah.net",
+      "CheckUser":"http://servidor01.sockslite.com:8888/server/online_app",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "USER":"923300",       "PASS":"923300"
+    },
+    {
+      "Name":"💚BR 02 | hackkcah",
+      "TYPE":"premium",
+      "FLAG":"br.png",
+      "ServerIP":"br4.hackkcah.net",
+      "CheckUser":"http://servidor02.sockslite.com:8888/server/online_app",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "USER":"9233",       "PASS":"9233"
+    },
+    {
+      "Name":"💚BR 03 | BRNET",
+      "TYPE":"premium",
+      "FLAG":"br.png",
+      "ServerIP":"titaonet.tk",
+      "CheckUser":"http://servidor03.sockslite.com:8888/server/online_app",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "USER":"9233007",       "PASS":"9233007"
+    },
+    {
+      "Name":"💚BR 04 | TUNNELVPN",
+      "TYPE":"premium",
+      "FLAG":"br.png",
+      "ServerIP":"br01.tunnelvpn.online",
+      "CheckUser":"http://servidor04.sockslite.com:8888/server/online_app",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "USER":"Brasil",       "PASS":"@Bras21"
+    }
+  ],
+  "Networks":[
+    {
+      "Name":"TIM 01 (PROXY)",
+      "FLAG":"tim",
+      "Payload":"CONNECT / HTTP/1.9[crlf]host: blog.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: [app_host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"pre-onboarding-p.c6bank.app",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"TIM 2 (DIRECT)",
+      "FLAG":"tim",
+      "Payload":"MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"[app_host]",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    }
+  ]
+}
