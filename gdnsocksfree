@@ -1,6 +1,6 @@
 {
-  "Version":"1.5.5.5",
-  "ReleaseNotes":"✅\n\n",
+  "Version":"1.5.5.6",
+  "ReleaseNotes":"teste✅\n\n",
   "UrlUpdate":"https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/gdnsocksfree",
   "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
   "EmailFeedback":"kiritosshxd5733@gmail.com",
@@ -10,7 +10,7 @@
   "UdpPort":"7300;7400;7500;7600;7700",
   "Servers":[
     {
-      "Name":"💚BR 1 | HACKCAH",
+      "Name":"💚BR 1 | HACKKCAH",
       "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"bra4.hackkcah.net",
@@ -20,7 +20,7 @@
       "USER":"923300",       "PASS":"923300"
     },
     {
-      "Name":"💚BR 02 | hackkcah",
+      "Name":"💚BR 02 | HACKKCAH",
       "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"br4.hackkcah.net",
@@ -52,7 +52,7 @@
   ],
   "Networks":[
     {
-      "Name":"TIM 01 (PROXY)",
+      "Name":"Ⓜ️TIM 01 (PROXY)",
       "FLAG":"tim",
       "Payload":"CONNECT / HTTP/1.9[crlf]host: blog.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: [app_host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
       "SNI":"",
@@ -62,7 +62,7 @@
       "Info":"Proxy"
     },
     {
-      "Name":"TIM 2 (DIRECT)",
+      "Name":"Ⓜ️TIM 2 (DIRECT)",
       "FLAG":"tim",
       "Payload":"MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
       "SNI":"",
