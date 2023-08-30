@@ -1,6 +1,6 @@
 {
-  "Version": "0.2.9",
-  "ReleaseNotes": "Nova Atualização 💜VIVO PRE PAGOf",
+  "Version": "0.3.0",
+  "ReleaseNotes": "Nova Atualização 💜VIVO PRE PAGOgogo",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
   "EmailFeedback": "",
@@ -44,14 +44,14 @@
         "Info": "Proxy"
      },
      {
-        "Name":" 💜VIVO 1) BR1💚",
+        "Name":" 💜VIVO pre pago 1) BR1💚",
         "FLAG": "vivo",
         "Payload": "[split][lf]ACL / HTTP/1.1[crlf]Host: vigia.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "titaonet.tk",
         "ProxyPort": "80",
-        "Info": "Direct"
+        "Info": "Proxy"
      }
   ]
 }
