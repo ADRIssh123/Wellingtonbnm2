@@ -1,5 +1,5 @@
 {
-  "Version":"1.5.5.7",
+  "Version":"1.5.5.9",
   "ReleaseNotes":"teste✅\n\n",
   "UrlUpdate":"https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/gdnsocksfree",
   "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
@@ -10,14 +10,16 @@
   "UdpPort":"7300;7400;7500;7600;7700",
   "Servers":[
     {
-      "Name":"💚BR 1 | HACKKCAH",
-      "TYPE":"premium",
-      "FLAG":"br.png",
-      "ServerIP":"bra4.hackkcah.net",
-      "CheckUser":"http://servidor01.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"923300",       "PASS":"923300"
+          {
+      "Name": "SERVIDOR PREMIUM",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "br.multservidor4g.shop",
+      "CheckUser": "http://svfree1tr.gdmhost.ga:8888/server/online_app",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "TEFREEOKOKOKOKOKOK",
+      "PASS": "
     },
     {
       "Name":"💚BR 02 | HACKKCAH",
@@ -51,16 +53,16 @@
     }
   ],
   "Networks":[
-    {
-      "Name":"Ⓜ️TIM 01 (PROXY)",
-      "FLAG":"tim",
-      "Payload":"CONNECT / HTTP/1.9[crlf]host: blog.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: [app_host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"pre-onboarding-p.c6bank.app",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
+{
+      "Name": "Config Front 4",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=d2mgpwexio2rce.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf]Referer: netfree080[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "99.84.31.54",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+       },
     {
       "Name":"Ⓜ️TIM 2 (DIRECT)",
       "FLAG":"tim",
