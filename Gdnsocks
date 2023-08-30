@@ -1,6 +1,6 @@
 {
-  "Version": "0.3.0",
-  "ReleaseNotes": "Nova Atualização 💜VIVO PRE PAGOgogo",
+  "Version": "0.3.1",
+  "ReleaseNotes": "Nova Atualização 💜VIVO+TIM PRE PAGOgogo",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
   "EmailFeedback": "",
@@ -13,12 +13,12 @@
       "Name": "0800 BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "titaonet.tk",
+      "ServerIP": "free2.sshtproject.com",
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "80",
       "SSLPort": "443",
-      "USER": "9233007",
-      "PASS": "9233007"
+      "USER": "ssht",
+      "PASS": "ssht"
     },
     {
       "Name": "SERVIDOR 2 APENAS TIM",
@@ -34,9 +34,39 @@
   ],
   "Networks": [
      {
-        "Name":" 💙TIM FREE (1) BR1💚",
+        "Name":" 💙TIM security (1) BR1💚",
         "FLAG": "vivo",
-        "Payload": "CONNECT / HTTP/1.9[crlf]host: ubisoft.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: bra4.hackkcah.net [crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+        "Payload": "CONNECT / HTTP/1.9[crlf]host: ubisoft.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: free1.sshtproject.com [crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "atendimento.lojadointer.com.br",
+        "ProxyPort": "80",
+        "Info": "Proxy"
+     },
+    {
+        "Name":" 💙TIM security (2) BR1💚",
+        "FLAG": "vivo",
+        "Payload": "CONNECT / HTTP/1.9[crlf]host: ubisoft.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: free2.sshtproject.com [crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "atendimento.lojadointer.com.br",
+        "ProxyPort": "80",
+        "Info": "Proxy"
+     },
+     {
+        "Name":" 💙TIM security (3) BR1💚",
+        "FLAG": "vivo",
+        "Payload": "CONNECT / HTTP/1.9[crlf]host: ubisoft.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: free3.sshtproject.com [crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "atendimento.lojadointer.com.br",
+        "ProxyPort": "80",
+        "Info": "Proxy"
+     },
+      {
+        "Name":" 💙TIM security (4) BR1💚",
+        "FLAG": "vivo",
+        "Payload": "CONNECT / HTTP/1.9[crlf]host: ubisoft.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: free4.sshtproject.com [crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "atendimento.lojadointer.com.br",
@@ -49,7 +79,7 @@
         "Payload": "[split][lf]ACL / HTTP/1.1[crlf]Host: vigia.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "titaonet.tk",
+        "ProxyIP": "free2.sshtproject.com",
         "ProxyPort": "80",
         "Info": "Proxy"
      }
