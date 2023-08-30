@@ -1,5 +1,5 @@
 {
-  "Version": "0.2.8",
+  "Version": "0.2.9",
   "ReleaseNotes": "Nova Atualização 💜VIVO PRE PAGO",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -15,7 +15,7 @@
       "FLAG": "br.png",
       "ServerIP": "titaonet.tk",
       "CheckUser": "http://200.98.144.83:5454/checkUser",
-      "ServerPort": "22",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "9233007",
       "PASS": "9233007"
@@ -51,7 +51,7 @@
         "TlsIP": "",
         "ProxyIP": "titaonet.tk",
         "ProxyPort": "80",
-        "Info": "Proxy"
+        "Info": "Direct"
      }
   ]
 }
