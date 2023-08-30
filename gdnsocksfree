@@ -1,5 +1,5 @@
 {
-  "Version":"1.5.5.8",
+  "Version":"1.5.5.9",
   "ReleaseNotes":"teste✅\n\n",
   "UrlUpdate":"https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/gdnsocksfree",
   "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
@@ -9,7 +9,6 @@
   "CheckUser":"true",
   "UdpPort":"7300;7400;7500;7600;7700",
   "Servers":[
-    {
           {
       "Name": "SERVIDOR PREMIUM",
       "TYPE": "premium",
