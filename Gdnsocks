@@ -1,5 +1,5 @@
 {
-  "Version": "0.3.4",
+  "Version": "0.3.5",
   "ReleaseNotes": "Nova Atualização resolvendo erro vivo security by @aquamandotiete",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -79,7 +79,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "free4.sshtproject.com",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy" 
    },
    {
@@ -89,7 +89,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "free4.sshtproject.com",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
    },
    {  
@@ -99,7 +99,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "free4.sshtproject.com",
-      "ProxyPort": "8080",
+      "ProxyPort": "80",
       "Info": "Proxy"
     }
   ]
