@@ -1,5 +1,5 @@
 {
-  "Version": "0.3.7",
+  "Version": "0.3.8",
   "ReleaseNotes": "Nova Atualização resolvendo erro vivo security by @aquamandotiete",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -93,12 +93,22 @@
       "Info": "Proxy"
    },
    {  
-      "Name": "🟣VIVO SECURITY 3🟣",
+      "Name": "🟣VIVO SECURITY 3 fast🟣",
       "FLAG": "vivo.png",
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: www.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "200.98.81.58",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {  
+      "Name": "🟣VIVO SECURITY 4 fast🟣",
+      "FLAG": "vivo.png",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: www.vivo.com.br\\n\\n\\n \\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "200.98.82.95",
       "ProxyPort": "80",
       "Info": "Proxy"
     }
