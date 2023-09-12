@@ -1,5 +1,5 @@
 {
-  "Version": "0.4.1",
+  "Version": "0.4.2",
   "ReleaseNotes": "Nova Atualização vitalício by @aquamandotiete",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -33,12 +33,12 @@
     }
   ],
   "Networks": [
-     {"Name": "VIVO SECURITY rápido",
+     {"Name": "🍇VIVO SECURITY rápido🍇",
       "FLAG": "vivo.png",
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: www.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "38.180.8.87",
+      "ProxyIP": "168.138.145.185",
       "ProxyPort": "80",
       "Info": "Proxy" 
    },
@@ -87,7 +87,7 @@
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: www.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "38.180.8.87",
+      "ProxyIP": "129.148.49.184",
       "ProxyPort": "80",
       "Info": "Proxy" 
    },
