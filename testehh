@@ -1,8 +1,8 @@
 {
   "Version": "1",
   "ReleaseNotes": "Nova Atualizacao Disponivel",
-  "UrlUpdate": "https://bitbin.it/cSL1cp2u/raw/",
-  "Sms": "https://bitbin.it/r",
+  "UrlUpdate": "https://bitbin.it/uABWP9WUwellington/raw/",
+  "Sms": "https://bitbin.it/rUPCQmch/raw/",
   "EmailFeedback": "",
   "UrlContato": "https://",
   "UrlTermos": "https://",
@@ -14,40 +14,29 @@
   ],
   "Servers": [
      {
-             "Name": "VIVO PRÉ 1👉USE COM VIVO PRÉ 1",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "b4.lsvpn.me",
-            "CheckUser": "",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "Litefree",
-            "PASS": "2940"
-       },
-      {
-       "Name": "VIVO PRÉ 2👉USE COM VIVO PRÉ 2",
+      "Name": "LSVPN 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "br13.vpsturbonet.shop",
+      "ServerIP": "b4.lsvpn.me",
       "CheckUser": "",
       "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "comisuamae",
-      "PASS": "minharola23cm"
-       },
-      {
-        "Name": "VIVO PRÉ 3👉USE COM VIVO PRÉ 3",
-      "TYPE": "PREMIUM",
-      "FLAG": "br.png",
-      "ServerIP": "b5.lsvpn.me",
-      "CheckUser": "",
-      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "Litefree",
       "PASS": "2940"
        },
       {
-        "Name": "SERV. VIVO EASY/PLANO",
+       "Name": "SSHBRASIL",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "b4.lsvpn.me",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "sshbrasil",
+      "PASS": "LISARBHSS"
+       },
+      {
+        "Name": "BRTURBO",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "br13.vpsturbonet.shop",
@@ -57,193 +46,38 @@
       "USER": "comisuamae",
       "PASS": "minharola23cm"
        },
-        {
-        "Name": "SERVIDOR EXCLUSIVO TIM",
+      {
+        "Name": "SERV turbonetz",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "free.suportebridge.online",
+      "ServerIP": "free1.downloadblackgames.tech",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "comisuamae",
-      "PASS": "minharola23cm"
-       },
-      {
-       "Name": "🔵🔴SERVIDOR1",
-            "TYPE": "PREMIUM",
-            "FLAG": "br.png",
-            "ServerIP": "b4.lsvpn.me",
-            "CheckUser": "",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "Litefree",
-            "PASS": "2940"
-          },
-          {
-            "Name": "🔵🔴SERVIDOR 2 ",
-            "TYPE": "PREMIUM",
-            "FLAG": "br.png",
-            "ServerIP": "free1.downloadblackgames.tech",
-            "CheckUser": "",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "hacker",
-            "PASS": "12w3"
-          },
-          {
-            "Name": "🔵🔴SERVIDOR 3",
-            "TYPE": "PREMIUM",
-            "FLAG": "br.png",
-            "ServerIP": "free2.downloadblackgames.tech",
-            "CheckUser": "",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "hacker",
-            "PASS": "12w3"
-          },
-          {
-            "Name": "🔵🔴SERVIDOR 4",
-            "TYPE": "PREMIUM",
-            "FLAG": "br.png",
-            "ServerIP": "free3.downloadblackgames.tech",
-            "CheckUser": "",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "hacker",
-            "PASS": "12w3" 
-    }
+      "USER": "vpns1",
+      "PASS": "vpns1"
+       }
   ],
   "Networks": [
     {
-         "Name": "🟣👉VIVO PRÉ 1",
-      "FLAG": "vivo", 
-      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "152.67.33.236", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-       },
-       {
-       "Name": "🟣👉VIVO PRÉ 2",
+         "Name": "TIM+VIVO Payload 1",
       "FLAG": "vivo", 
       "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]", 
-      "SNI": "129.148.58.178", 
-      "TlsIP": "129.148.58.178", 
-      "ProxyIP": "129.148.58.178", 
-      "ProxyPort": "80", 
+      "SNI": "[app_host]", 
+      "TlsIP": "[app_host]", 
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "8080", 
       "Info": "Proxy"
        },
        {
-       "Name": "🟣👉VIVO PRÉ 3",
+       "Name": "TIM+VIVO Payload 2",
       "FLAG": "vivo", 
-      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "152.67.33.236", 
+      "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]", 
+      "SNI": "[app_host]", 
+      "TlsIP": "[app_host]", 
+      "ProxyIP": "[app_host]", 
       "ProxyPort": "80", 
       "Info": "Proxy"
-       },
-       {
-        "Name": "🟣EASY E PLANO 1",
-      "FLAG": "vivo",
-      "Payload": "GET wss://[host]/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "172.64.150.8",
-      "ProxyIP": "172.64.150.8",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-       },
-    {
-        "Name": "🟣EASY E PLANO 2",
-      "FLAG": "vivo",
-      "Payload": "GET wss://[host]/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.7.41",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-       },
-        {
-            "Name": "🟣EASY E PLANOS 3",
-            "FLAG": "vivo",
-            "Payload": "GET wss://[host]/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-             "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.18.6.80",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-       },
-       {
-       "Name": "🔵TIM GERAL",
-         "FLAG":"tim",
-       "Payload":"CONNECT / HTTP/1.9[crlf]host: pre-onboarding-p.c6bank.app[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: [app_host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-            },
-            {
-          "Name":"🔵TIM BELEZA",
-         "FLAG":"tim",
-       "Payload":"CONNECT / HTTP/1.9[crlf]host: pre-onboarding-p.c6bank.app[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: [app_host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "pre-onboarding-p.c6bank.app",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-       {
-        "Name": "🔵TIM HIPER",
-      "FLAG": "tim", 
-      "Payload": "CONNECT \/ HTTP\/1.9[crlf]host: pre-onboarding-p.c6bank.app[crlf][crlf][split][crlf]OPTIONS- \/\/ HTTP\/1.9[crlf]host: [app_host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla\/5.0 (Linux; Android 4.4.2); Nexus 5 Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/33.0.1750.117 Mobile Safari\/537.36 OPR\/20.0.1396.72047[crlf][crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "104.18.99.70", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-       },
-       {
-      "Name": "🔵TIM BUZZ",
-      "FLAG": "tim", 
-      "Payload": "CONNECT \/ HTTP\/1.1[crlf]host: blog.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- \/\/ HTTP\/1.1[crlf]host: [app_host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla\/5.0 (Linux; Android 4.4.2); Nexus 5 Build\/KOT49H) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/33.0.1750.117 Mobile Safari\/537.36 OPR\/20.0.1396.72047[crlf][crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "104.19.239.25", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-        },
-       {
-       "Name": "🔵TIM SEM CADASTRO",
-      "FLAG": "vivo", 
-      "Payload": "PROPFIND m.youtube.com.br HTTP/1.1[crlf]Host: m.youtube.com.br[crlf]", 
-      "SNI": "", 
-      "TlsIP": "", 
-      "ProxyIP": "134.65.245.211", 
-      "ProxyPort": "80", 
-      "Info": "Proxy"
-        },
-       {
-        "Name": "🔴CLARO REGIÕES",
-      "FLAG": "claro", 
-      "Payload": "api.whatsapp.com", 
-      "SNI": "api.whatsapp.com", 
-      "TlsIP": "", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
-      "Info": "Proxy"
-        },
-       {
-       "Name": "🔴CLARO E FLUKE",
-      "FLAG": "claro", 
-      "Payload": "api.whatsapp.com", 
-      "SNI": "api.whatsapp.com", 
-      "TlsIP": "", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
-      "Info": "Proxy"
-
-    }
+       }
   ]
 }
