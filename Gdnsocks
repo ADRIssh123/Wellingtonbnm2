@@ -1,5 +1,5 @@
 {
-  "Version": "0.4.7",
+  "Version": "0.4.8",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -39,7 +39,7 @@
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "144.22.235.33",
+        "ProxyIP": "51.161.70.73",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
