@@ -1,5 +1,5 @@
 {
-  "Version": "0.4.8",
+  "Version": "0.4.9",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -13,12 +13,12 @@
       "Name": "Servidor BR",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "titaonet.tk",
+      "ServerIP": "br01.tunnelvpn.online",
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "ssht",
-      "PASS": "ssht"
+      "USER": "Http",
+      "PASS": "@Plus2"
     },
     {
       "Name": "SERVIDOR 2 APENAS TIM",
@@ -39,7 +39,7 @@
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "51.161.70.73",
+        "ProxyIP": "br01.tunnelvpn.online",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -49,7 +49,7 @@
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "144.22.235.33",
+        "ProxyIP": "br02.tunnelvpn.online",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -59,7 +59,7 @@
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "38.180.25.64",
+        "ProxyIP": "br03.tunnelvpn.online",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -69,7 +69,7 @@
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "68.233.122.206",
+        "ProxyIP": "br04.tunnelvpn.online",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
