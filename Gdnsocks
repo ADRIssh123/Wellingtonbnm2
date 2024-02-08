@@ -1,5 +1,5 @@
 {
-  "Version": "0.5.1",
+  "Version": "0.5.2",
   "ReleaseNotes": "Nova Atualização Disponível!",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -36,7 +36,7 @@
      {
         "Name": " 🟣VIVO+TIM🔵 [01]",
         "FLAG": "vivo",
-        "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
+        "Payload": "ACL /index.html HTTP/1.1[crlf]Host: exterminador1.norvaera.com[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "br01.tunnelvpn.online",
@@ -49,17 +49,17 @@
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "br02.tunnelvpn.online",
+        "ProxyIP": "br01.tunnelvpn.online",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
      {
         "Name": " 🟣VIVO+TIM🔵 [03]",
         "FLAG": "vivo",
-        "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
+        "Payload": "ACL /wss.html HTTP/1.1[crlf]Host: bbhost.nextvpn.website[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "br03.tunnelvpn.online",
+        "ProxyIP": "br01.tunnelvpn.online",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
