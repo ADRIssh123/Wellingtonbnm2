@@ -13,7 +13,7 @@
       "Name": "Servidor sn",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "a.us.servergo.pw",
+      "ServerIP": "104.19.241.93",
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
