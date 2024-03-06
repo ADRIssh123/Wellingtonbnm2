@@ -1,5 +1,5 @@
 {
-  "Version": "0.5.3",
+  "Version": "0.5.4",
   "ReleaseNotes": "Nova Atualizacao sn ",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -13,7 +13,7 @@
       "Name": "Servidor sn",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "br01.tunnelvpn.online",
+      "ServerIP": "a.us.servergo.pw",
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -28,18 +28,18 @@
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "lionssh_mfladac",
+      "PASS": "76515172w"
     }
   ],
   "Networks": [
      {
-        "Name": " 🟣VIVO+TIM🔵 [01]",
+        "Name": " TIM🔵 FREE [01]",
         "FLAG": "vivo",
-        "Payload": "ACL /index.html HTTP/1.1[crlf]Host: exterminador1.norvaera.com[crlf]Upgrade: websocket[crlf][crlf]",
+        "Payload": "ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: a.us.servergo.pw:80[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "br01.tunnelvpn.online",
+        "ProxyIP": "104.19.241.93",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
