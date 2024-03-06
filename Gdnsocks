@@ -1,5 +1,5 @@
 {
-  "Version": "0.5.4",
+  "Version": "0.5.5",
   "ReleaseNotes": "Nova Atualizacao sn ",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -17,8 +17,8 @@
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Http",
-      "PASS": "@Plus212"
+      "USER": "lionssh_mfladac",
+      "PASS": "76515172w"
     },
     {
       "Name": "SERVIDOR 2 APENAS TIM",
