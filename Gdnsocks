@@ -1,5 +1,5 @@
 {
-  "Version": "0.5.5",
+  "Version": "0.5.6",
   "ReleaseNotes": "Nova Atualizacao sn ",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -17,8 +17,8 @@
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "lionssh_mfladac",
-      "PASS": "76515172w"
+      "USER": "ssht",
+      "PASS": "ssht"
     },
     {
       "Name": "SERVIDOR 2 APENAS TIM",
@@ -39,7 +39,7 @@
         "Payload": "ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: a.us.servergo.pw:80[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "104.19.241.93",
+        "ProxyIP": "free1.sshtproject.com",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -49,7 +49,7 @@
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "br01.tunnelvpn.online",
+        "ProxyIP": "free2.sshtproject.com",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -69,7 +69,7 @@
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "br04.tunnelvpn.online",
+        "ProxyIP": "br02.tunnelvpn.online",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
