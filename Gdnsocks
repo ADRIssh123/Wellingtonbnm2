@@ -1,5 +1,5 @@
 {
-  "Version": "0.5.8",
+  "Version": "0.5.9",
   "ReleaseNotes": "Nova Atualizacao sn ",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -36,7 +36,7 @@
      {
         "Name": " TIM🔵 FREE [01]",
         "FLAG": "vivo",
-        "Payload": "ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: free6.sshtproject.com[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+        "Payload": "ACL / HTTP/1.1[lf]Host: free6.sshtproject.com[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "104.19.241.93",
