@@ -1,6 +1,6 @@
 {
-  "Version": "0.5.9",
-  "ReleaseNotes": "Nova Atualizacao sn ",
+  "Version": "0.6.0",
+  "ReleaseNotes": "❓MEU TIM CAIU❓ OPÇÃO 2 NOVA ATUALIZAÇÃO CORRIGINDO A FALHA NA CHI🩴",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
   "EmailFeedback": "",
@@ -10,7 +10,7 @@
   "UdpPort": "7300",
   "Servers": [
     {
-      "Name": "Servidor sni nova",
+      "Name": "Servidor ",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "104.19.241.93",
@@ -46,10 +46,10 @@
      {
         "Name": " 🟣VIVO+TIM🔵 [02]",
         "FLAG": "vivo",
-        "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
+        "Payload": "ACL / HTTP/1.1[lf]Host: free13.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "free2.sshtproject.com",
+        "ProxyIP": "blog.deezer.com",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
