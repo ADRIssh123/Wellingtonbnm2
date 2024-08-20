@@ -1,5 +1,5 @@
 {
-  "Version": "0.6.3",
+  "Version": "0.6.4",
   "ReleaseNotes": "❓MEU TIM CAIU❓ OPÇÃO 2 NOVA ATUALIZAÇÃO CORRIGINDO A FALHA NA CHI🩴",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -49,7 +49,7 @@
         "Payload": "ACL / HTTP/1.1[lf]Host: free13.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "blog.deezer.com",
+        "ProxyIP": "141.193.213.10",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -59,7 +59,7 @@
         "Payload": "ACL / HTTP/1.1[lf]Host: free6.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "blog.deezer.com",
+        "ProxyIP": "141.193.213.10",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
@@ -69,7 +69,7 @@
         "Payload": "ACL / HTTP/1.1[lf]Host: free3.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "blog.deezer.com",
+        "ProxyIP": "141.193.213.10",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
