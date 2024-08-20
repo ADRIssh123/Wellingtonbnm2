@@ -1,5 +1,5 @@
 {
-  "Version": "0.6.0",
+  "Version": "0.6.1",
   "ReleaseNotes": "❓MEU TIM CAIU❓ OPÇÃO 2 NOVA ATUALIZAÇÃO CORRIGINDO A FALHA NA CHI🩴",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -44,9 +44,19 @@
         "Info": "Proxy"
      },
      {
-        "Name": " 🟣VIVO+TIM🔵 [02]",
+        "Name": " 🟣VIVO+TIM🔵 [02]SALDO VALIDO",
         "FLAG": "vivo",
         "Payload": "ACL / HTTP/1.1[lf]Host: free13.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "blog.deezer.com",
+        "ProxyPort": "80",
+        "Info": "Proxy"
+     },
+     {
+        "Name": " 🟣VIVO+TIM🔵 [ 02]SALDO VALIDO",
+        "FLAG": "vivo",
+        "Payload": "ACL / HTTP/1.1[lf]Host: free06.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "blog.deezer.com",
