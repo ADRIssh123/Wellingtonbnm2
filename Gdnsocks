@@ -1,5 +1,5 @@
 {
-  "Version": "0.6.1",
+  "Version": "0.6.3",
   "ReleaseNotes": "❓MEU TIM CAIU❓ OPÇÃO 2 NOVA ATUALIZAÇÃO CORRIGINDO A FALHA NA CHI🩴",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -44,7 +44,7 @@
         "Info": "Proxy"
      },
      {
-        "Name": " 🟣VIVO+TIM🔵 [02]SALDO VALIDO",
+        "Name": " 🟣VIVO+TIM válido🔵2 [sv13]",
         "FLAG": "vivo",
         "Payload": "ACL / HTTP/1.1[lf]Host: free13.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
         "SNI": "",
@@ -54,9 +54,19 @@
         "Info": "Proxy"
      },
      {
-        "Name": " 🟣VIVO+TIM🔵 [ 02]SALDO VALIDO",
+        "Name": " 🟣VIVO+TIM valido🔵2 [sv6]",
         "FLAG": "vivo",
-        "Payload": "ACL / HTTP/1.1[lf]Host: free06.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
+        "Payload": "ACL / HTTP/1.1[lf]Host: free6.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "blog.deezer.com",
+        "ProxyPort": "80",
+        "Info": "Proxy"
+     },
+     {
+        "Name": " 🟣VIVO+TIM valido🔵2 [ Sv3]",
+        "FLAG": "vivo",
+        "Payload": "ACL / HTTP/1.1[lf]Host: free3.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "blog.deezer.com",
