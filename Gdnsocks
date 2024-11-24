@@ -1,6 +1,6 @@
 {
-  "Version": "0.6.4",
-  "ReleaseNotes": "❓MEU TIM CAIU❓ OPÇÃO 2 NOVA ATUALIZAÇÃO CORRIGINDO A FALHA NA CHI🩴",
+  "Version": "0.6.5",
+  "ReleaseNotes": "ATT WELLINGTON ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
   "EmailFeedback": "",
@@ -44,29 +44,9 @@
         "Info": "Proxy"
      },
      {
-        "Name": " 🟣VIVO+TIM válido🔵2 [sv13]",
+        "Name": " 🟣VIVO+TIM valido🔵2",
         "FLAG": "vivo",
-        "Payload": "ACL / HTTP/1.1[lf]Host: free13.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
-        "SNI": "",
-        "TlsIP": "",
-        "ProxyIP": "141.193.213.10",
-        "ProxyPort": "80",
-        "Info": "Proxy"
-     },
-     {
-        "Name": " 🟣VIVO+TIM valido🔵2 [sv6]",
-        "FLAG": "vivo",
-        "Payload": "ACL / HTTP/1.1[lf]Host: free6.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
-        "SNI": "",
-        "TlsIP": "",
-        "ProxyIP": "141.193.213.10",
-        "ProxyPort": "80",
-        "Info": "Proxy"
-     },
-     {
-        "Name": " 🟣VIVO+TIM valido🔵2 [ Sv3]",
-        "FLAG": "vivo",
-        "Payload": "ACL / HTTP/1.1[lf]Host: free3.sshtproject.com[lf]Upgrade: Websocket[lf][split][lf]",
+        "Payload": "ACL / HTTP/1.1[lf]Host: 150.230.84.193[lf]Upgrade: Websocket[lf][split][lf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "141.193.213.10",
@@ -79,32 +59,12 @@
         "Payload": "ACL /wss.html HTTP/1.1[crlf]Host: bbhost.nextvpn.website[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "free3.sshtproject.com",
+        "ProxyIP": "150.230.84.193",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
      {
         "Name": " 🟣VIVO+TIM🔵 [04]",
-        "FLAG": "vivo",
-        "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
-        "SNI": "",
-        "TlsIP": "",
-        "ProxyIP": "free4.sshtproject.com",
-        "ProxyPort": "80",
-        "Info": "Proxy"
-     },
-     {
-        "Name": " 🟣VIVO+TIM🔵 [05]",
-        "FLAG": "vivo",
-        "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
-        "SNI": "",
-        "TlsIP": "",
-        "ProxyIP": "free5.sshtproject.com",
-        "ProxyPort": "80",
-        "Info": "Proxy"
-     },
-     {
-        "Name": " 🟣VIVO+TIM🔵 [06]",
         "FLAG": "vivo",
         "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: nxx1.clodfront.site[crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "",
