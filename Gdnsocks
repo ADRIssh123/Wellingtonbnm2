@@ -1,5 +1,5 @@
 {
-  "Version": "0.6.6",
+  "Version": "0.6.7",
   "ReleaseNotes": "ATT WELLINGTON ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -13,7 +13,7 @@
       "Name": "Servidor ",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "104.19.241.93",
+      "ServerIP": "150.230.84.193",
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
