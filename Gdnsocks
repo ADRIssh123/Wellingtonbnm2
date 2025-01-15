@@ -1,5 +1,5 @@
 {
-  "Version": "0.6.9",
+  "Version": "0.6.1",
   "ReleaseNotes": "ATT WELLINGTON ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -28,8 +28,8 @@
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "lionssh_mfladac",
-      "PASS": "76515172w"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
