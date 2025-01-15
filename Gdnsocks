@@ -36,7 +36,7 @@
      {
         "Name": " TIM🔵 FREE [01]",
         "FLAG": "vivo",
-        "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate= www.maisvantagenstim.com.br;timrecompensas.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: lb.botoloko.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+        "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate= www.maisvantagenstim.com.br;timrecompensas.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: bra2.hackkcah.uk[crlf]Upgrade: Websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "104.18.4.18",
