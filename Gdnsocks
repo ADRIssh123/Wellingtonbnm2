@@ -1,5 +1,5 @@
 {
-  "Version": "0.6.1",
+  "Version": "0.6.2",
   "ReleaseNotes": "ATT WELLINGTON ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -36,7 +36,7 @@
      {
         "Name": " TIM🔵 FREE [01]",
         "FLAG": "vivo",
-        "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate= www.maisvantagenstim.com.br;timrecompensas.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: bra2.hackkcah.uk[crlf]Upgrade: Websocket[crlf][crlf]",
+        "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate= www.maisvantagenstim.com.br;timrecompensas.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: bra.hackkcah.uk[crlf]Upgrade: Websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
         "ProxyIP": "104.18.4.18",
