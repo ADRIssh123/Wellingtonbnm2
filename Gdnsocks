@@ -1,5 +1,5 @@
 {
-  "Version": "0.6.2",
+  "Version": "0.6.3",
   "ReleaseNotes": "ATT WELLINGTON ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -46,10 +46,10 @@
      {
         "Name": " 🟣VIVO+TIM valido🔵2",
         "FLAG": "vivo",
-        "Payload": "ACL / HTTP/1.1[lf]Host: 150.230.84.193[lf]Upgrade: Websocket[lf][split][lf]",
+        "Payload": "GET /cdn-cgi/trace/ HTTP/1.1[crlf]Host: ayabooks.com.br[crlf][crlf][split]- /app13 HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]@ALNETWORK[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "141.193.213.10",
+        "ProxyIP": "150.230.84.193",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
