@@ -1,5 +1,5 @@
 {
-  "Version": "0.6.6",
+  "Version": "0.6.7",
   "ReleaseNotes": "ATT WELLINGTON ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/ADRIssh123/Wellingtonbnm2/main/Gdnsocks",
   "Sms": "https://github.com/Wellingtonbnm2/sockssn/blob/main/sksviptksms",
@@ -13,12 +13,12 @@
       "Name": "Servidor ",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "150.230.84.193",
+      "ServerIP": "premium1.sshtproject.com",
       "CheckUser": "http://200.98.144.83:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "ssht",
-      "PASS": "ssht"
+      "USER": "2ui6j",
+      "PASS": "llkq0"
     },
     {
       "Name": "SERVIDOR 2 APENAS TIM",
@@ -36,10 +36,10 @@
      {
         "Name": " TIM🔵 FREE [01]",
         "FLAG": "vivo",
-        "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate= www.maisvantagenstim.com.br;timrecompensas.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: bra.hackkcah.uk[crlf]Upgrade: Websocket[crlf][crlf]",
+        "Payload": "GET / HTTP/1.1[crlf]Host: ayabooks.com.br[crlf][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: premium1.sshtproject.com[crlf]Upgrade: Websocket[crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "104.18.4.18",
+        "ProxyIP": "104.18.21.132",
         "ProxyPort": "80",
         "Info": "Proxy"
      },
